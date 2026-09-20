@@ -3,3 +3,5 @@ provisioner "local-exec" {
 command = "echo Hello from Terraform"
 	}
 }
+
+test
